@@ -1,0 +1,8 @@
+{
+    "appId": "io.ionic.starter",
+    "appName": "eat-together",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+}
